@@ -14,13 +14,13 @@ cleaned up.**
 If you find this software useful, please let us know; and if you use
 this software in academic work, please cite the associated paper:
 
-@Article{avery16:autos,
-  author = 	 {James Emil Avery and Rune Johansen and Wojciech Szymanski},
-  title = 	 {Visualizing automorphisms of graph algebras},
-  journal =  {Proc. Edinburg Math. Soc.},
-  year = 	 2016,
-  note = {In press, preprint available at https://arxiv.org/abs/1401.4274}
-}
+    @Article{avery16:autos,
+      author = 	 {James Emil Avery and Rune Johansen and Wojciech Szymanski},
+      title = 	 {Visualizing automorphisms of graph algebras},
+      journal =  {Proc. Edinburg Math. Soc.},
+      year = 	 2016,
+      note = {In press, preprint available at https://arxiv.org/abs/1401.4274}
+    }
 
 
 -- James Avery (avery@diku.dk)
